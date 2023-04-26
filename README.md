@@ -2,4 +2,4 @@
 
 - Built by Efe Erdem
 
-[Live Demo](https://efeerdem7.github.io/rps-game/)
+[Live Demo](https://efeerdem7.github.io/rps/)
